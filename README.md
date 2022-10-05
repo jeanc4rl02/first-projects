@@ -1,7 +1,7 @@
 # first-projects
 
 
-Hola estamos creando un proyecto con compañeros de clase para practicar 
+Hola, estamos creando un proyecto con compañeros de clase para practicar.
 
 
-Hi we are create a proyect whit classmates for practice
+Hello, we are creating a project with classmates to practice.
